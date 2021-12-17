@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Web site content
 
-fa df; asdkf ; a; dlkfj dlfj   ;alsdkfj  adlfja ldfj 
-
-fdfdfdffdfadsf
+index.html
